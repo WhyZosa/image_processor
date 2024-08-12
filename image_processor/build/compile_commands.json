@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/. -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/image_processor.dir/filters/crop_filter.o -c /Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/crop_filter.cpp",
+  "file": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/crop_filter.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/crop_filter.o"
+},
+{
+  "directory": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/. -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/image_processor.dir/filters/edge_detection_filter.o -c /Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/edge_detection_filter.cpp",
+  "file": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/edge_detection_filter.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/edge_detection_filter.o"
+},
+{
+  "directory": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/. -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/image_processor.dir/utils/file_worker.o -c /Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/utils/file_worker.cpp",
+  "file": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/utils/file_worker.cpp",
+  "output": "CMakeFiles/image_processor.dir/utils/file_worker.o"
+},
+{
+  "directory": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/. -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/image_processor.dir/filters/gaussian_blur_filter.o -c /Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/gaussian_blur_filter.cpp",
+  "file": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/gaussian_blur_filter.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/gaussian_blur_filter.o"
+},
+{
+  "directory": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/. -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/image_processor.dir/filters/grayscale_filter.o -c /Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/grayscale_filter.cpp",
+  "file": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/grayscale_filter.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/grayscale_filter.o"
+},
+{
+  "directory": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/. -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/image_processor.dir/utils/image_handler.o -c /Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/utils/image_handler.cpp",
+  "file": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/utils/image_handler.cpp",
+  "output": "CMakeFiles/image_processor.dir/utils/image_handler.o"
+},
+{
+  "directory": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/. -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/image_processor.dir/utils/image.o -c /Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/utils/image.cpp",
+  "file": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/utils/image.cpp",
+  "output": "CMakeFiles/image_processor.dir/utils/image.o"
+},
+{
+  "directory": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/. -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/image_processor.dir/filters/matrix_filter.o -c /Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/matrix_filter.cpp",
+  "file": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/matrix_filter.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/matrix_filter.o"
+},
+{
+  "directory": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/. -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/image_processor.dir/filters/my_own_filter.o -c /Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/my_own_filter.cpp",
+  "file": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/my_own_filter.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/my_own_filter.o"
+},
+{
+  "directory": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/. -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/image_processor.dir/filters/negative_filter.o -c /Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/negative_filter.cpp",
+  "file": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/negative_filter.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/negative_filter.o"
+},
+{
+  "directory": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/. -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/image_processor.dir/filters/perlin_noise.o -c /Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/perlin_noise.cpp",
+  "file": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/perlin_noise.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/perlin_noise.o"
+},
+{
+  "directory": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/. -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/image_processor.dir/filters/sharpening_filter.o -c /Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/sharpening_filter.cpp",
+  "file": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/filters/sharpening_filter.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/sharpening_filter.o"
+},
+{
+  "directory": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/. -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/image_processor.dir/image_processor.o -c /Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/image_processor.cpp",
+  "file": "/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/image_processor.cpp",
+  "output": "CMakeFiles/image_processor.dir/image_processor.o"
+}
+]

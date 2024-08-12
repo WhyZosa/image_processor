@@ -1,0 +1,3 @@
+/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build/CMakeFiles/image_processor.dir
+/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build/CMakeFiles/edit_cache.dir
+/Users/daniil/ami-238-2-Daniil-Zasimuk-ZOSA/tasks/image_processor/build/CMakeFiles/rebuild_cache.dir
